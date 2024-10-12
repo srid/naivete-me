@@ -10,17 +10,6 @@ I am exploring an interactive website to best explain actualist [naiveté](https
 
 Run `just run` in the Nix devShell.
 
-## Content
-
-Various aspects of naiveté to explain:
-
-- being likeable and liking
-- being naive open -> having fun finding out how one ticks
-- naive intimacy vs _the affectional intimacy of romance lore and legend_
-- tangential concepts
-  - appreciation
-  - harmlessness
-
 ## Some ideas
 
 ### Dictionary popups
