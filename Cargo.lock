@@ -684,7 +684,7 @@ dependencies = [
 [[package]]
 name = "leptos-markdown"
 version = "0.6.1"
-source = "git+https://github.com/ngli-me/leptos-markdown#a5333b4ca2d7ae338f50eed2276dfaec9a19f798"
+source = "git+https://github.com/rambip/leptos-markdown#42587c7f1df788086c08a7d8f14790f8991076f0"
 dependencies = [
  "leptos",
  "rust-web-markdown",
