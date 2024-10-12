@@ -19,6 +19,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  background-color: white;
 }
 
 .buttons {
@@ -42,9 +43,9 @@ button {
   margin: var(--size-6);
 }
 
-body > picture,
 button {
   display: block;
+  background-color: #cfcfcf;
   margin-left: auto;
   margin-right: auto;
   text-align: center;

@@ -25,21 +25,16 @@ pub fn Home() -> impl IntoView {
         }>
 
             <div class="container">
+                <h1>"Naiveté explained"</h1>
 
-                <picture>
-                    <source
-                        srcset="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_pref_dark_RGB.svg"
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <img
-                        src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_RGB.svg"
-                        alt="Leptos Logo"
-                        height="200"
-                        width="400"
-                    />
-                </picture>
-
-                <h1>"Welcome to Leptos"</h1>
+                <div style="text-align: left;">
+                  <p>
+                  "Naiveté is that intimate aspect of oneself that one usually keeps hidden away for fear of seeming foolish ... it is like being a child again, but with adult sensibilities, which means that one can separate out the distinction between being naïve and being gullible."
+                  </p>
+                  <p>
+                  "Some synonyms of naiveté are: guileless, artless, simple, ingenuous, innocuous, unsophisticated, artless, frank, open."
+                  </p>
+                </div>
 
                 <div class="buttons">
                     <Button/>
