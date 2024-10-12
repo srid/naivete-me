@@ -8,4 +8,3 @@ fmt:
 # Run the project
 run *ARGS:
     trunk serve --port 3000 --open
-

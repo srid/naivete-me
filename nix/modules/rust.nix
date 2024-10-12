@@ -12,6 +12,6 @@
         ]
       );
     };
-    packages.default = self'.packages.rust-nix-template;
+    packages.default = self'.packages.naivete-me;
   };
 }
