@@ -6,7 +6,7 @@ Some synonyms of **naiveté** are: _guileless, artless, simple, ingenuous, innoc
 
 ### One is both **likeable and liking**
 
-> Look, the whole point of minimising both the malicious/ sorrowful feelings (the ‘bad’ feelings) and their antidotal loving/ compassionate feelings (the ‘good’ feelings) whilst maximising the felicitous/ innocuous feelings (the ‘congenial’ feelings) is to make for a potent combination when this untrammelled conviviality operates in conjunction with a naïve sensuosity – whereby **one is both likeable and liking** – such that the benevolence and benignity of pure intent may increasingly become dynamically enabled for one purpose and one purpose alone ... to wit: for the already always existing peace-on-earth to become apparent, in this lifetime, as this flesh-and-blood body.
+> **RICHARD:** Look, the whole point of minimising both the malicious/ sorrowful feelings (the ‘bad’ feelings) and their antidotal loving/ compassionate feelings (the ‘good’ feelings) whilst maximising the felicitous/ innocuous feelings (the ‘congenial’ feelings) is to make for a potent combination when this untrammelled conviviality operates in conjunction with a naïve sensuosity – whereby **one is both likeable and liking** – such that the benevolence and benignity of pure intent may increasingly become dynamically enabled for one purpose and one purpose alone ... to wit: for the already always existing peace-on-earth to become apparent, in this lifetime, as this flesh-and-blood body.
 
 ### **Naive intimacy** vs _the affectional intimacy of romance lore and legend_
 

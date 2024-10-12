@@ -18,6 +18,10 @@ Hover or click on words to have their definitions popup ([example](https://githu
 
 This popup mechanism can be extended for footnotes as well.
 
+### Anchor link
+
+To link to any segment of the content, no matter how it is rendered.
+
 ### Quizes?
 
 Multi-choice and such questions with a button that reveals the answer to test the user's understanding.
