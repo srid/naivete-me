@@ -10,6 +10,7 @@
       packages = with pkgs; [
         just
         nixd # Nix language server
+        leptosfmt
         bacon
         trunk
       ];

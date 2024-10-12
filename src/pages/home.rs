@@ -28,17 +28,17 @@ pub fn Home() -> impl IntoView {
                 <h1>"Naiveté explained"</h1>
 
                 <div style="text-align: left;">
-                  <p>
-                  "Naiveté is that intimate aspect of oneself that one usually keeps hidden away for fear of seeming foolish ... it is like being a child again, but with adult sensibilities, which means that one can separate out the distinction between being naïve and being gullible."
-                  </p>
-                  <p>
-                  "Some synonyms of naiveté are: guileless, artless, simple, ingenuous, innocuous, unsophisticated, artless, frank, open."
-                  </p>
+                    <p>
+                        "Naiveté is that intimate aspect of oneself that one usually keeps hidden away for fear of seeming foolish ... it is like being a child again, but with adult sensibilities, which means that one can separate out the distinction between being naïve and being gullible."
+                    </p>
+                    <p>
+                        "Some synonyms of naiveté are: guileless, artless, simple, ingenuous, innocuous, unsophisticated, artless, frank, open."
+                    </p>
                 </div>
 
                 <div class="buttons">
-                    <Button/>
-                    <Button increment=5/>
+                    <Button />
+                    <Button increment=5 />
                 </div>
 
             </div>
