@@ -17,3 +17,11 @@ jobs:
       - name: Install omnix
         run: nix --accept-flake-config profile install "github:juspay/omnix"
       - run: om ci
+      - name: Run static site generator
+        run: |
+          nix develop -c just static
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
