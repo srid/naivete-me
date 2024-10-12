@@ -30,9 +30,8 @@ pub fn Home() -> impl IntoView {
             <div class="container">
                 <h1>"Naiveté explained"</h1>
 
-
                 <div style="text-align: left;">
-                <Markdown src=CONTENT/>
+                    <Markdown src=CONTENT />
 
                 </div>
 
