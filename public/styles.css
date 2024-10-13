@@ -62,6 +62,17 @@ button {
   font-size: var(--font-size-00) !important;
   padding-inline: var(--size-0);
   padding-block: var(--size-1);
+
+  /* box shadow */
+  border-radius: var(--radius-2);
+  box-shadow: var(--shadow-2);
+  &:hover {
+    box-shadow: var(--shadow-3);
+  }
+  @media (--motionOK) {
+    animation: var(--animation-fade-in);
+  }
+
   /* Undo bad resets */
   border-radius: var(--radius-drawn-5);
   max-inline-size: 100%;
