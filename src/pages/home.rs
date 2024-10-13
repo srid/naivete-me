@@ -75,7 +75,14 @@ fn NaivelyOpenAndSincere() -> impl IntoView {
         </p>
 
         <blockquote>
-        <p><strong>"VINEETO"</strong>":" "It is an act of daring to let one’s cynic guard down and re-engage one’s own naïve curiosity. " <a href="https://actualfreedom.com.au/actualism/vineeto/selected-correspondence/corr-sorrow.htm">source</a></p>
+            <p>
+                <strong>"VINEETO"</strong>
+                ":"
+                "It is an act of daring to let one’s cynic guard down and re-engage one’s own naïve curiosity. "
+                <a href="https://actualfreedom.com.au/actualism/vineeto/selected-correspondence/corr-sorrow.htm">
+                    source
+                </a>
+            </p>
         </blockquote>
     }
 }
