@@ -1,16 +1,20 @@
 ### One is both likeable and liking
 
-Most people do not like themselves due to felt inequity and imparity of their social identity. To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important, because there's no favouritism (no distinction by status/ class/ age/ gender etc.). It is a reliably sweet way of going about life!
+Most people do not like themselves, primarily due to felt inequity and imparity inherent to one's social identity.
+
+> **VINEETO**: Many social identity aspects can be described as having to do with ‘self-worth’ (and self-worth as derived from other people’s opinion – social status, respect, acceptance, authority, control, pride – in other words, inequity and imparity, the very components which stand in the way to peace-on-earth amongst fellow human beings. [..] [source](https://actualfreedom.com.au/actualism/actualvineeto/basictofullfreedom2.htm)
+
+To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important, because there's no favouritism (no distinction by status/ class/ age/ gender etc.). It is a reliably sweet way of going about life!
 
 > **RICHARD**: [..] a persona who cannot unreservedly like themselves—even at the deepest core of their very ‘being’—cannot unconditionally like any other persona either (all of whom are, likewise, ‘rotten to the core’ as well)? [source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-naivete.htm)
 
-The immediate goal of an actualist is to consistently stay being naive (being both likeable and liking)—and thereby diminish their social identity in the process—such as to facilitate the pure intent necessary for self-immolation to occur.
+The immediate goal of an actualist is to consistently stay being naive (being both likeable and liking)—and *thereby* diminish their social identity in the process—such as to facilitate the pure intent necessary for self-immolation to occur.
 
 > **RICHARD:** Look, the whole point of minimising both the malicious/ sorrowful feelings (the ‘bad’ feelings) and their antidotal loving/ compassionate feelings (the ‘good’ feelings) whilst maximising the felicitous/ innocuous feelings (the ‘congenial’ feelings) is to make for a potent combination when this untrammelled conviviality operates in conjunction with a naïve sensuosity – whereby **one is both likeable and liking** – such that the benevolence and benignity of pure intent may increasingly become dynamically enabled for one purpose and one purpose alone ... to wit: for the already always existing peace-on-earth to become apparent, in this lifetime, as this flesh-and-blood body.
 
 ### Naive intimacy vs love
 
-In the specific context of intimacy (notably, sexuality and its psychic accompaniments such as love & romance), it is vital to keep in mind that naivete — which now manifests as *naive intimacy* in an intimate setting — stands in stark contrast to _"**the affectional intimacy of romance lore and legend**"_, and requires a _"considerable finesse of focus"_ to remember to be as naive as possible in order to counteract the instinctual tendency towards love.
+In the specific context of intimacy (notably, sexuality and its psychic accompaniments such as love & romance), it is vital to keep in mind that naivete — which now manifests as *naive intimacy* in an intimate setting — stands in stark contrast to _"**the affectional intimacy of romance lore and legend**"_, and requires a _"considerable finesse of focus"_ to remember to be as naive as possible in order to counteract the instinctual tendency to veer towards love, sometimes in the most cunning ways.
 
 > **MARTIN:** _Is it as simple as that?_
 >
@@ -20,7 +24,7 @@ In the specific context of intimacy (notably, sexuality and its psychic accompan
 
 ### Appreciation
 
-Note: the author is currently actively exploring this connection.
+Note: the author is currently actively exploring this connection. In the meanwhile, [this](https://an.actualfreedom.com.au/various/well-equippedmarvelling.htm) is a good place to start.
 
 > **VINEETO**: Becoming naïve is indeed _“tightly connected”_ to be able to _“appreciate this moment of being alive whatever form it takes.”_ [source](https://www.actualfreedom.com.au/actualism/actualvineeto/almog.htm)
 

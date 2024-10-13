@@ -43,10 +43,6 @@ pub fn Home() -> impl IntoView {
                     "#
                     } />
 
-                    <h2>"Various aspects"</h2>
-
-                    <p>Here we explore various aspects of naiveté.</p>
-
                     <NaivelyOpenAndSincere />
 
                     <Markdown src=CONTENT />
@@ -77,5 +73,9 @@ fn NaivelyOpenAndSincere() -> impl IntoView {
         <p>
             The openness of naiveté acts to counteract the self-centered outlook of the identity.
         </p>
+
+        <blockquote>
+        <p><strong>"VINEETO"</strong>":" "It is an act of daring to let one’s cynic guard down and re-engage one’s own naïve curiosity. " <a href="https://actualfreedom.com.au/actualism/vineeto/selected-correspondence/corr-sorrow.htm">source</a></p>
+        </blockquote>
     }
 }
