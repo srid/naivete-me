@@ -14,6 +14,8 @@ The openness of naiveté acts to counteract the self-centered outlook of the ide
 
 Most people do not like themselves due to felt inequity and imparity of their social identity. To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important, because there's no favouritism (no distinction by status/class/etc.). It is a sweet way of going about life!
 
+> **RICHARD**: [..] a persona who cannot unreservedly like themselves—even at the deepest core of their very ‘being’—cannot unconditionally like any other persona either (all of whom are, likewise, ‘rotten to the core’ as well)? [source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-naivete.htm)
+
 The goal of an actualist is to consistently stay being naive (being both likeable and liking), and thereby diminish their social identity in the process.
 
 > **RICHARD:** Look, the whole point of minimising both the malicious/ sorrowful feelings (the ‘bad’ feelings) and their antidotal loving/ compassionate feelings (the ‘good’ feelings) whilst maximising the felicitous/ innocuous feelings (the ‘congenial’ feelings) is to make for a potent combination when this untrammelled conviviality operates in conjunction with a naïve sensuosity – whereby **one is both likeable and liking** – such that the benevolence and benignity of pure intent may increasingly become dynamically enabled for one purpose and one purpose alone ... to wit: for the already always existing peace-on-earth to become apparent, in this lifetime, as this flesh-and-blood body.
@@ -28,9 +30,11 @@ In the specific context of intimacy (i.e., sexuality and its psychic accompanime
 >
 > Perhaps if I were to put it this way:  untold billions of peoples down through the ages and across cultures have liked, rather than loved, another and/or others relationally, familially and societally – and yet even so the near-innocent intimacy of naïveté does not appear in the dictionary listings – to the point that it speaks volumes regarding the all-dominating puissance of blind nature’s rough-and-ready instinctual survival passions which, whilst self-evidently successful in its proliferative perpetuation of the species, nevertheless blindly dictate that no other course of action, vis-à-vis being intimate, than love’s affectuous intimacy will ever instinctually come about.
 
+### Appreciation
+
+> **VINEETO**: Becoming naïve is indeed _“tightly connected”_ to be able to _“appreciate this moment of being alive whatever form it takes.”_ [source](https://www.actualfreedom.com.au/actualism/actualvineeto/almog.htm)
+
 ### Others
 
-
 - Related notions
-  - **Appreciation**
   - **Harmlessness**
