@@ -73,16 +73,25 @@ fn NaivelyOpenAndSincere() -> impl IntoView {
         <p>
             The openness of naiveté acts to counteract the self-centered outlook of the identity.
         </p>
+    }
+}
 
-        <blockquote>
-            <p>
-                <strong>"VINEETO"</strong>
-                ":"
-                "It is an act of daring to let one’s cynic guard down and re-engage one’s own naïve curiosity. "
-                <a href="https://actualfreedom.com.au/actualism/vineeto/selected-correspondence/corr-sorrow.htm">
-                    source
-                </a>
-            </p>
-        </blockquote>
+#[component]
+fn AuthorPrefix(#[prop(into)] name: String) -> impl IntoView {
+    view! {
+        <strong>{name}</strong>
+        ": "
+    }
+}
+
+/// Cite the AFT
+#[component]
+fn Cite(#[prop(into)] url: String) -> impl IntoView {
+    view! {
+        <cite>
+            " —" <a href=url target="_blank">
+                "AFT"
+            </a>
+        </cite>
     }
 }

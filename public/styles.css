@@ -79,6 +79,12 @@ button {
   display: block;
 }
 
+.container blockquote cite {
+  font-size: var(--font-size-0);
+  padding: 0;
+  margin-left: 10px;
+}
+
 .container h2 {
   color: darkkhaki;
 }
