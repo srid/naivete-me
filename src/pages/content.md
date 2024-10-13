@@ -14,11 +14,11 @@ The openness of naiveté acts to counteract the self-centered outlook of the ide
 
 ### One is both likeable and liking
 
-Most people do not like themselves due to felt inequity and imparity of their social identity. To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important, because there's no favouritism (no distinction by status/class/etc.). It is a sweet way of going about life!
+Most people do not like themselves due to felt inequity and imparity of their social identity. To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important, because there's no favouritism (no distinction by status/ class/ age/ gender etc.). It is a reliably sweet way of going about life!
 
 > **RICHARD**: [..] a persona who cannot unreservedly like themselves—even at the deepest core of their very ‘being’—cannot unconditionally like any other persona either (all of whom are, likewise, ‘rotten to the core’ as well)? [source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-naivete.htm)
 
-The goal of an actualist is to consistently stay being naive (being both likeable and liking), and thereby diminish their social identity in the process.
+The immediate goal of an actualist is to consistently stay being naive (being both likeable and liking)—and thereby diminish their social identity in the process—such as to facilitate the pure intent necessary for self-immolation to occur.
 
 > **RICHARD:** Look, the whole point of minimising both the malicious/ sorrowful feelings (the ‘bad’ feelings) and their antidotal loving/ compassionate feelings (the ‘good’ feelings) whilst maximising the felicitous/ innocuous feelings (the ‘congenial’ feelings) is to make for a potent combination when this untrammelled conviviality operates in conjunction with a naïve sensuosity – whereby **one is both likeable and liking** – such that the benevolence and benignity of pure intent may increasingly become dynamically enabled for one purpose and one purpose alone ... to wit: for the already always existing peace-on-earth to become apparent, in this lifetime, as this flesh-and-blood body.
 
