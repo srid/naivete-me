@@ -1,4 +1,5 @@
 use crate::components::counter_btn::Button;
+use indoc::indoc;
 use leptos::*;
 use leptos_markdown::Markdown;
 
@@ -31,6 +32,18 @@ pub fn Home() -> impl IntoView {
                 <h1>"Naiveté explained"</h1>
 
                 <div style="text-align: left;">
+                    <Markdown src=indoc! {
+                        r#"
+                    > **Naiveté** is that intimate aspect of oneself that one usually keeps hidden away for fear of seeming foolish ... it is like being a child again, but with adult sensibilities, which means that one can separate out the distinction between being naïve and being gullible."
+                    >
+                    > Some synonyms of **naiveté** are: _guileless, artless, simple, ingenuous, innocuous, unsophisticated, artless, frank, open_." -[source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-naivete.htm)
+                    "#
+                    } />
+
+                    <h2>"Various aspects"</h2>
+
+                  <p>Here we explore various aspects of naiveté.</p>
+
                     <Markdown src=CONTENT />
 
                 </div>

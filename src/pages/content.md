@@ -1,11 +1,3 @@
-> **Naiveté** is that intimate aspect of oneself that one usually keeps hidden away for fear of seeming foolish ... it is like being a child again, but with adult sensibilities, which means that one can separate out the distinction between being naïve and being gullible."
->
-> Some synonyms of **naiveté** are: _guileless, artless, simple, ingenuous, innocuous, unsophisticated, artless, frank, open_." -[source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-naivete.htm)
-
-## Various aspects
-
-Here we explore various aspects of naiveté.
-
 ### Naively open and sincere
 
 The usual modus operandi when investigating feelings is to be closed (and cunning), by predicting a particular way of doing it and framing oneself in that closed fashion. Since this is the only moment there is — and the future cannot be predestined — one might as well remain open (be naively open) to whatever pops up. Stay fascinatedly curious as to how this moment will unfold: whenever one is no longer feeling good, one can look at **whatever** that is, without needing to maintain a premonition about it.
@@ -24,7 +16,7 @@ The immediate goal of an actualist is to consistently stay being naive (being bo
 
 ### Naive intimacy vs love
 
-In the specific context of intimacy (i.e., sexuality and its psychic accompaniments such as love & romance), it is vital to keep in mind that naivete — which now manifests as *naive intimacy* — stands in stark contrast to **the affectional intimacy of romance lore and legend**, and requires a _"considerable finesse of focus"_ to remember to be as naive as possible in order to counteract the instinctual tendency towards love.
+In the specific context of intimacy (notably, sexuality and its psychic accompaniments such as love & romance), it is vital to keep in mind that naivete — which now manifests as *naive intimacy* in an intimate setting — stands in stark contrast to _"**the affectional intimacy of romance lore and legend**"_, and requires a _"considerable finesse of focus"_ to remember to be as naive as possible in order to counteract the instinctual tendency towards love.
 
 > **MARTIN:** _Is it as simple as that?_
 >

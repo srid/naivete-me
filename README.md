@@ -16,11 +16,11 @@ Run `just run` in the Nix devShell.
 
 Hover or click on words to have their definitions popup ([example](https://github.com/dominiclet/obsidian-note-definitions#obsidian-note-definitions)).
 
-This popup mechanism can be extended for footnotes as well.
+This popup mechanism can be extended for footnotes as well. Even for related concepts?
 
 ### Anchor link
 
-To link to any segment of the content, no matter how it is rendered.
+To link to any segment of the content, no matter how it is rendered. When the user navigates to it, highlight it to make it stand out.
 
 ### Quizes?
 
