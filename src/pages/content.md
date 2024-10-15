@@ -4,13 +4,19 @@ Most people do not like themselves, primarily due to felt inequity and imparity 
 
 > **VINEETO**: Many social identity aspects can be described as having to do with ‘self-worth’ (and self-worth as derived from other people’s opinion – social status, respect, acceptance, authority, control, pride – in other words, inequity and imparity, the very components which stand in the way to peace-on-earth amongst fellow human beings. [..] [source](https://actualfreedom.com.au/actualism/actualvineeto/basictofullfreedom2.htm)
 
-To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important, because there's no favouritism (no distinction by status/ class/ age/ gender etc.). It is a reliably sweet way of going about life!
+To be naive means one likes oneself (one is likeable) as a human being (regardless of the social identity) which necessarily also means that one likes one's fellow human being (regardless of 'who' they think/feel themselves to be) bar none. The "bar none" is important (see below), because there's no favouritism (no distinction by status/ class/ age/ gender etc.). It is a reliably sweet way of going about life!
 
 > **RICHARD**: [..] a persona who cannot unreservedly like themselves—even at the deepest core of their very ‘being’—cannot unconditionally like any other persona either (all of whom are, likewise, ‘rotten to the core’ as well)? [source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-naivete.htm)
 
 The immediate goal of an actualist is to consistently stay being naive (being both likeable and liking)—and *thereby* diminish their social identity in the process—such as to facilitate the pure intent necessary for self-immolation to occur.
 
 > **RICHARD:** Look, the whole point of minimising both the malicious/ sorrowful feelings (the ‘bad’ feelings) and their antidotal loving/ compassionate feelings (the ‘good’ feelings) whilst maximising the felicitous/ innocuous feelings (the ‘congenial’ feelings) is to make for a potent combination when this untrammelled conviviality operates in conjunction with a naïve sensuosity – whereby **one is both likeable and liking** – such that the benevolence and benignity of pure intent may increasingly become dynamically enabled for one purpose and one purpose alone ... to wit: for the already always existing peace-on-earth to become apparent, in this lifetime, as this flesh-and-blood body.
+
+### Naiveté is quite unilateral
+
+One's state of naiveté does not have to be impacted by what the other does or does not do.
+
+> **RICHARD**: It is impossible to not like somebody, whatever the mischief is they get up to, as an actual intimacy does not switch on and off and operates unilaterally in regards every man, woman and child without exception ... nobody is special because everybody is special simply by being alive as a flesh and blood body’ [source](https://actualfreedom.com.au/richard/selectedcorrespondence/sc-humanity.htm)
 
 ### Naive intimacy vs love
 
